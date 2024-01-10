@@ -1,0 +1,5 @@
+
+mongodb+srv://azizemirhanozdemir:mpuFTVOBxhUqWi5u@cluster0.is1xgzt.mongodb.net/myFirtDatabase?retryWrites=true&w=majority
+
+
+
