@@ -1,4 +1,3 @@
-import { reject } from "lodash";
 import iyzipay from "../connection/iyzipay.js"
 
 export const createUserCard = async (data) => {

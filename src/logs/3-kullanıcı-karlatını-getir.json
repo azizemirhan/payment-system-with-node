@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "locale": "tr",
+    "systemTime": 1704878683464,
+    "conversationId": "hMOQGRCWpLxEdwuPRuXRf",
+    "cardUserKey": "EOYCXhEodjyCpoXf8ot4dn/kyXg=",
+    "cardDetails": [
+        {
+            "cardToken": "TcY2azNl58qVp1L/JYtMT7sVZLw=",
+            "cardAlias": "Kredi Kartım",
+            "binNumber": "49100500",
+            "lastFourDigits": "0006",
+            "cardType": "DEBIT_CARD",
+            "cardAssociation": "VISA",
+            "cardFamily": "Vakıfbank DC",
+            "cardBankCode": 15,
+            "cardBankName": "Vakıfbank"
+        }
+    ]
+}

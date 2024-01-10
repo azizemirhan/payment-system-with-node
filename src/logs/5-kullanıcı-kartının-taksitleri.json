@@ -1,0 +1,29 @@
+{
+    "status": "success",
+    "locale": "tr",
+    "systemTime": 1704877816724,
+    "conversationId": "tu2alYKgxVUnEhg4EHoAR",
+    "installmentDetails": [
+        {
+            "binNumber": "49100500",
+            "price": 32000,
+            "cardType": "DEBIT_CARD",
+            "cardAssociation": "VISA",
+            "cardFamilyName": "Vakıfbank DC",
+            "force3ds": 1,
+            "bankCode": 15,
+            "bankName": "Vakıfbank",
+            "forceCvc": 0,
+            "commercial": 0,
+            "dccEnabled": 0,
+            "agricultureEnabled": 0,
+            "installmentPrices": [
+                {
+                    "installmentPrice": 32000,
+                    "totalPrice": 32000,
+                    "installmentNumber": 1
+                }
+            ]
+        }
+    ]
+}
