@@ -325,4 +325,5 @@ const createPaymentWithSaveCard = () => {
     (0, _logs.logFile)("8-kayitli-kartla-odeme-yapma-hata", result);
   });
 };
-createPaymentWithSaveCard();
+
+// createPaymentWithSaveCard();

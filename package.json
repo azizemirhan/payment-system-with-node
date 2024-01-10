@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "module",
   "scripts": {
-    "dev": "babel src --out-dir=./build --copy-files --watch",
-    "build": "babel src --out-dir=./build --copy-files",
-    "start": "npx @babel/node"
+    "start": "npx @babel/node",
+    "dev": "npx nodemon --exec npx @babel/node ./src/index.js dev --watch",
+    "build": "npx babel src --out-dir=./build --copy-files",
+    "production": "npm run build && node ./build/index.js"
   },
   "keywords": [],
   "author": "",
@@ -35,6 +35,7 @@
     "@babel/core": "^7.23.7",
     "@babel/node": "^7.22.19",
     "@babel/preset-env": "^7.23.8",
-    "@babel/register": "^7.23.7"
+    "@babel/register": "^7.23.7",
+    "nodemon": "^3.0.2"
   }
 }
